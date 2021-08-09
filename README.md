@@ -35,7 +35,7 @@ Here are a few things I've picked up along my learning journey.
  
 
 ## 📫 Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamandla-balashekhar-a91058199/) || [![Mail](https://img.shields.io/badge/Mail-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adnanazmee@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamandla-balashekhar-a91058199/) || [![Mail](https://img.shields.io/badge/Mail-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamandlabalashekhar@gmail.com) 
 
 
  give some ♥ 
