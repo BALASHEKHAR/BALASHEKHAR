@@ -22,8 +22,8 @@ Here are a few things I've picked up along my learning journey.
  
 
 ![Git](https://img.shields.io/badge/-Git-red?&style=for-the-badge&logo=git&logoColor=white)  ![Github](https://img.shields.io/badge/GitHub-gold?style=for-the-badge&logo=GitHub&logoColor=black) 
-
- ![OOPS](https://img.shields.io/badge/-OOPS-yellow?&style=for-the-badge&logo=Co-op&logoColor=white) ![DBMS](https://img.shields.io/badge/-DBMS-red?&style=for-the-badge&logo=databricks&logoColor=white) ![Operating_systems](https://img.shields.io/badge/-Operating_systems-brown?&style=for-the-badge&logo=windows&logoColor=white) ![computer_networks](https://img.shields.io/badge/-computer_networks-green?&style=for-the-badge&logo=Neo4j&logoColor=white) ![]()
+<!-- 
+ ![OOPS](https://img.shields.io/badge/-OOPS-yellow?&style=for-the-badge&logo=Co-op&logoColor=white) ![DBMS](https://img.shields.io/badge/-DBMS-red?&style=for-the-badge&logo=databricks&logoColor=white) ![Operating_systems](https://img.shields.io/badge/-Operating_systems-brown?&style=for-the-badge&logo=windows&logoColor=white) ![computer_networks](https://img.shields.io/badge/-computer_networks-green?&style=for-the-badge&logo=Neo4j&logoColor=white) ![]() -->
 
  ![Figma](https://img.shields.io/badge/-Figma-yellow?&style=for-the-badge&logo=figma&logoColor=white)
  
